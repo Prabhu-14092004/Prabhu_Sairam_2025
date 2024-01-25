@@ -31,5 +31,5 @@ Sample Output 1
 6
 '''
 
-N = int(input())
-print(len(str(N)))
+k= int(input())
+print(len(str(k)))
