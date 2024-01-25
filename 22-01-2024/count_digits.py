@@ -31,5 +31,5 @@ Sample Output 1
 6
 '''
 
-k= int(input())
+k = int(input())
 print(len(str(k)))
