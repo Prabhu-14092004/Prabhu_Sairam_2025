@@ -30,5 +30,5 @@ Sample Output 1
 
 1432
 '''
-num = int(input())
-print(str(num)[::-1])
+l = int(input())
+print(str(l)[::-1])
